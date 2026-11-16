@@ -13,3 +13,8 @@ Administrador
 Cliente
 - E-mail: cliente@pixelstore.com
 - Senha: cliente123
+
+
+
+
+Feito por: Felipe Barsotti Prado de Carvalho
