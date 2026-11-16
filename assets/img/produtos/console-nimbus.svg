@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Nimbus">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f3d5c"/><stop offset="1" stop-color="#22b8cf"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<circle cx="680" cy="90" r="170" fill="#fff" fill-opacity=".07"/><circle cx="90" cy="540" r="210" fill="#fff" fill-opacity=".06"/>
+<rect x="220" y="215" width="360" height="150" rx="40" fill="#fff" fill-opacity=".92"/><rect x="300" y="235" width="200" height="110" rx="10" fill="#0f3d5c"/><circle cx="262" cy="270" r="14" fill="#0f3d5c"/><circle cx="538" cy="310" r="14" fill="#0f3d5c"/>
+<text x="400" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">Nimbus</text>
+</svg>

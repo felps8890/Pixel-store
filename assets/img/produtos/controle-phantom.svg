@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Phantom">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14315c"/><stop offset="1" stop-color="#4dabf7"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<circle cx="680" cy="90" r="170" fill="#fff" fill-opacity=".07"/><circle cx="90" cy="540" r="210" fill="#fff" fill-opacity=".06"/>
+<path d="M290 230h220a70 70 0 0 1 68 86l-14 56a34 34 0 0 1-60 12l-28-36H324l-28 36a34 34 0 0 1-60-12l-14-56a70 70 0 0 1 68-86z" fill="#fff" fill-opacity=".92"/><rect x="296" y="278" width="52" height="14" rx="4" fill="#14315c"/><rect x="315" y="259" width="14" height="52" rx="4" fill="#14315c"/><circle cx="474" cy="268" r="11" fill="#14315c"/><circle cx="502" cy="296" r="11" fill="#14315c"/>
+<text x="400" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">Phantom</text>
+</svg>

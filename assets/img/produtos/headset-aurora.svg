@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Aurora 7.1">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a1f5c"/><stop offset="1" stop-color="#cc5de8"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<circle cx="680" cy="90" r="170" fill="#fff" fill-opacity=".07"/><circle cx="90" cy="540" r="210" fill="#fff" fill-opacity=".06"/>
+<path d="M290 320v-30a110 110 0 0 1 220 0v30" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="22" stroke-linecap="round"/><rect x="262" y="300" width="56" height="96" rx="22" fill="#fff" fill-opacity=".92"/><rect x="482" y="300" width="56" height="96" rx="22" fill="#fff" fill-opacity=".92"/>
+<text x="400" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">Aurora 7.1</text>
+</svg>

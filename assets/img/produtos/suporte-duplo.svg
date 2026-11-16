@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Suporte Duplo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f3640"/><stop offset="1" stop-color="#868e96"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<circle cx="680" cy="90" r="170" fill="#fff" fill-opacity=".07"/><circle cx="90" cy="540" r="210" fill="#fff" fill-opacity=".06"/>
+<rect x="300" y="390" width="200" height="22" rx="11" fill="#fff" fill-opacity=".92"/><rect x="390" y="200" width="20" height="200" rx="10" fill="#fff" fill-opacity=".92"/><path d="M340 215a60 60 0 0 1 120 0" fill="none" stroke="#fff" stroke-opacity=".92" stroke-width="20" stroke-linecap="round"/><rect x="340" y="300" width="120" height="16" rx="8" fill="#fff" fill-opacity=".92"/>
+<text x="400" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">Suporte Duplo</text>
+</svg>
